@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
+    <!--<item android:id="@+id/action_search"-->
+        <!--android:title="@string/search_item"-->
+        <!--android:icon="@drawable/ic_search_black_24dp"-->
+        <!--app:showAsAction="always"-->
+        <!--app:actionViewClass="android.support.v7.widget.SearchView"-->
+        <!--/>-->
 
-    <item
-        android:title="@string/app_name"
-        android:id="@+id/appBarTitle"
-        />
+    <!--<item-->
+        <!--android:title="@string/cart"-->
+        <!--android:id="@+id/shoppingCartItem"-->
+        <!--app:showAsAction="always"-->
+        <!--android:icon="@drawable/ic_shopping_cart_white_24dp"-->
+        <!--/>-->
 </menu>

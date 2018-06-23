@@ -5,4 +5,10 @@
 
 
     <string name="home_screen_image_title_description">They Give A FCK</string>
+    <string name="search_item">Search Item</string>
+    <string name="cart">cart</string>
+    <string name="add_one">add one</string>
+    <string name="minus_one">minus one</string>
+    <string name="magnum_xl">Magnum XL</string>
+    <string name="amount_start">0</string>
 </resources>

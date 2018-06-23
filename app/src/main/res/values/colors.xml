@@ -4,8 +4,8 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
 
-    <color name="darkBlack">#1a1a1a</color>
-    <color name="lightBlue">#3480B1</color>
-    <color name="orange">#ea412c</color>
-    <color name="lightGray">#cdcdcd</color>
+    <color name="darkBlack">#201d1e</color>
+    <color name="lightBlue">#2580b0</color>
+    <color name="orange">#e63e27</color>
+    <color name="lightGray">#cdcccc</color>
 </resources>

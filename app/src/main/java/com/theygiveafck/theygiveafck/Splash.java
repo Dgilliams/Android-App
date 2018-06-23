@@ -9,17 +9,24 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+
 public class Splash extends AppCompatActivity {
 
     Handler handler;
     private Context mContext = this;
 
     private ImageView splashImage;
+    private DatabaseReference databaseReference;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
+
+        databaseReference = FirebaseDatabase.getInstance().getReference();
+        databaseReference.child("startUp").setValue("toBeDeleted");
 
         splashImage = findViewById(R.id.splashImageLogo);
 

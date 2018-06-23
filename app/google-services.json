@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "836520621019",
+    "firebase_url": "https://theygiveafck.firebaseio.com",
+    "project_id": "theygiveafck",
+    "storage_bucket": "theygiveafck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836520621019:android:04140d0cd338d579",
+        "android_client_info": {
+          "package_name": "com.theygiveafck.theygiveafck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836520621019-eup9fspi9619dbsu2inf4url13afnj9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theygiveafck.theygiveafck",
+            "certificate_hash": "2b3b9ff425cc0567ba637985ba7d965f88b95d29"
+          }
+        },
+        {
+          "client_id": "836520621019-c4nen2ekb2mmo1tec3b83gioe68l65cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5xAr7X3p7YYk7aQguauNEbwAR6QpsdGk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836520621019-c4nen2ekb2mmo1tec3b83gioe68l65cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
