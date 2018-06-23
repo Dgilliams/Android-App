@@ -11,7 +11,8 @@
         android:theme="@style/AppTheme">
 
         <activity android:name=".MainActivity"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait"
+            android:theme="@style/HomeScreen"/>
 
         <activity android:name=".Splash"
             android:screenOrientation="portrait">
